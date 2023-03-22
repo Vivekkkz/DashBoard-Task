@@ -1,0 +1,61 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.card-top {
+  height: 170px;
+  width: 170px;
+
+  border-radius: 10%;
+}
+.card-top h4 {
+  font-size: 20px;
+  position: relative;
+  top: 130px;
+  right: -10px;
+}
+.iconAlign {
+  position: relative;
+  top: -20px;
+  right: -125px;
+}
+.numAlign {
+  position: relative;
+  top: -12px;
+  right: -42px;
+}
+.post-card {
+  height: 140px;
+  width: 90vw;
+  margin-bottom: 30px;
+  display: flex;
+}
+.viewdesign {
+  font-size: 16px;
+  font-family: sans-serif;
+  padding-top: 1%;
+}
+.card-view {
+  border-color: black;
+}
+
+.new1 {
+  border-top: 1px dashed red;
+}
+
+.iconAlign2 {
+  position: relative;
+}
+.viewdesign1 {
+  padding-top: 4px;
+}
+
+.viewdesign2 {
+  color: blue;
+}
+
+.heading {
+  margin-top: 24px;
+  padding-top: 12px;
+  border-top: 1px dashed grey;
+}
